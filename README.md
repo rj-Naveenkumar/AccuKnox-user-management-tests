@@ -20,3 +20,5 @@ src/test/java
 └── screenshots
 ```
 ### Create Virtual Environment
+python -m venv myenv
+```
