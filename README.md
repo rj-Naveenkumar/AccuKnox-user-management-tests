@@ -16,8 +16,6 @@ src/test/java
 ├── tests
 │   ├── Test_Login                     
 │   └──  delete_test 
-├── myenv    # virtual environment 
-│   ├── DataProviders.java    # to support Data-Driven Testing (DDT) in TestNG by supplying  external test data from an Excel file to test methods.
-│   ├── ExtentReportManager.java   #To generate a professional Extent HTML report that tracks the status of each test case run during the automation execution.
-│   └──  XLUtility.java      # To provide reusable methods for reading and writing Excel data so that test cases can be executed with dynamic input from an Excel file
+├── myenv    # virtual environment
+└── screenshots
 ```
