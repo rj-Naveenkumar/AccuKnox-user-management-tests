@@ -55,3 +55,13 @@ python tests/delete_test.py
 Tested on Playwright version: 1.52.0
 
 ---
+
+# Problem Statement 2:
+### File name - System-App-Health Checker 
+This project also includes implementations for the following objectives:
+
+## 1. System Health Monitoring Script:
+Developed a Python script that monitors the health of a Linux system by checking CPU usage, memory usage, disk space, and running processes. It logs alerts when any metric exceeds predefined thresholds.
+
+## 4. Application Health Checker:
+Developed a Python script that checks the uptime and status of an application by sending HTTP requests and validating the response status codes. The script logs whether the application is 'UP' or 'DOWN' based on the response.
