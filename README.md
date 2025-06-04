@@ -36,4 +36,21 @@ pip install playwright
 ```
 playwright install
 ```
-###
+### The test uses the official OrangeHRM demo site: 
+```
+https://opensource-demo.orangehrmlive.com/
+```
+
+## How to run the test cases
+#### Run All Tests (Login + Add + Edit + Validate)
+```
+python tests/Test_Login.py
+```
+#### Run Only the Delete Test
+```
+python tests/delete_test.py
+```
+
+## Playwright version used
+Tested on Playwright version: 1.52.0
+
