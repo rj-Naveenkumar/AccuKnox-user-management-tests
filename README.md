@@ -53,3 +53,5 @@ python tests/delete_test.py
 
 ## Playwright version used
 Tested on Playwright version: 1.52.0
+
+---
