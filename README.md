@@ -4,8 +4,10 @@ This project contains end-to-end test cases for automating the User Management f
 ---
 ##  Project Setup 
 Automated test suite for validating the User Management module of OrangeHRM using **Playwright** with **Python**.  
-The tests cover login, user creation, user editing, validation, and deletion.---
+The tests cover login, user creation, user editing, validation, and deletion.
+---
 ### 📁 Project Folder Structure
+```
 src/test/java
 │
 ├── pages         # Page Object Model (POM) classes
